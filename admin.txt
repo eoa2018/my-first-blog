@@ -1,0 +1,3 @@
+Username (leave blank to use 'suxin_brchci9'): eoa2018
+Email address: eoa2018@admin.com
+Password:12345678
